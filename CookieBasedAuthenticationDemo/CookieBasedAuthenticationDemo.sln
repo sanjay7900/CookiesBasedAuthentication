@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookieBasedAuthenticationDemo", "CookieBasedAuthenticationDemo.csproj", "{94E57FE6-8D20-44C7-869D-3515B0BA4AE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94E57FE6-8D20-44C7-869D-3515B0BA4AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E57FE6-8D20-44C7-869D-3515B0BA4AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E57FE6-8D20-44C7-869D-3515B0BA4AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E57FE6-8D20-44C7-869D-3515B0BA4AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD066008-1D8A-4406-9F41-A9CC73A5FEA3}
+	EndGlobalSection
+EndGlobal
